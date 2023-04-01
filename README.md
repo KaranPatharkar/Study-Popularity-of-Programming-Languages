@@ -1,5 +1,5 @@
 # Study Popularity of Programming Languages
-This project analyzes the rise and fall of programming languages over time. The goal is to identify trends in programming language popularity and understand the factors that contribute to their rise or fall.
+This project analyzes the rise and fall of programming languages over time. The goal is to identify trends in programming language popularity and understand the factors that contribute to their rise or fall and use these factors to visualize the future of these languages.
 
 # Dataset
 The dataset used in this project is the Programming Languages Dataset, which consists of data from the StackExchange querytool. The dataset has been preprocessed and cleaned for use in this project, and is contained in the PL_DataSet.csv file.
